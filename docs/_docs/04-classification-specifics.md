@@ -44,7 +44,7 @@ New model types are regularly added to the library. Text classification tasks cu
 | ELECTRA      | electra                              |
 | FlauBERT     | flaubert                             |
 | HerBERT      | herbert                              |
-| LayoutLM     | layoutlm                             |
+| *LayoutLM     | layoutlm                             |
 | *Longformer  | longformer                           |
 | *MPNet       | mpnet                                |
 | MobileBERT   | mobilebert                           |
